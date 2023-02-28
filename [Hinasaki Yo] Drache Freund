@@ -1,0 +1,25 @@
+{
+   "title":"[Hinasaki Yo] Drache Freund",
+   "description":"",
+   "author":"Hinasaki Yo",
+   "artist":"Hinasaki Yo",
+   "cover":"https://i.imgur.com/sOYcS2x.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/sN6DRSf"
+         },
+         "last_updated":1624606143,
+         "title":"Drache Freund Episode 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/kw4hM5D"
+         },
+         "last_updated":1624606143,
+         "title":"Drache Freund Episode 2 - Raziyya's_Blitzkrieg",
+         "volume":"2"
+      }
+   }
+}
