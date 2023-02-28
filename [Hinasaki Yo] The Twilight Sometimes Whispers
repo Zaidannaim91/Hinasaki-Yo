@@ -1,0 +1,25 @@
+{
+   "title":"[Hinasaki Yo] The Twilight Sometimes Whispers",
+   "description":"",
+   "author":"Hinasaki Yo",
+   "artist":"Hinasaki Yo",
+   "cover":"https://i.imgur.com/PrtLy9q.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/h725etx"
+         },
+         "last_updated":1624606143,
+         "title":"The Twilight Sometimes Whispers 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/7b6zJks"
+         },
+         "last_updated":1624606143,
+         "title":"The Twilight Sometimes Whispers 2 ~Yuzuha's Darkness~",
+         "volume":"2"
+      }
+   }
+}
