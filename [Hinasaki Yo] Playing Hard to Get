@@ -1,0 +1,33 @@
+{
+   "title":"[Hinasaki Yo] Playing Hard to Get",
+   "description":"",
+   "author":"Hinasaki Yo",
+   "artist":"Hinasaki Yo",
+   "cover":"https://i.imgur.com/HUg28jR.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/9PcO7wJ"
+         },
+         "last_updated":1624606143,
+         "title":"Playing Hard to Get",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/tfR7OPi"
+         },
+         "last_updated":1624606143,
+         "title":"Pure Love Advantage",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/sdPz0Sr"
+         },
+         "last_updated":1624606143,
+         "title":"Pure Smash",
+         "volume":"3"
+      }
+   }
+}
