@@ -1,0 +1,25 @@
+{
+   "title":"[Hinasaki Yo] China Girl's Forest",
+   "description":"",
+   "author":"Hinasaki Yo",
+   "artist":"Hinasaki Yo",
+   "cover":"https://i.imgur.com/EAQbMih.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/5OFKloM"
+         },
+         "last_updated":1624606143,
+         "title":"China Girl's Forest",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uZLPDo3"
+         },
+         "last_updated":1624606143,
+         "title":"Cat, Rats & China Girls",
+         "volume":"2"
+      }
+   }
+}
