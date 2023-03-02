@@ -1,0 +1,33 @@
+{
+   "title":"[Hinasaki Yo] The Owl's Mansion",
+   "description":"",
+   "author":"Hinasaki Yo",
+   "artist":"Hinasaki Yo",
+   "cover":"https://i.imgur.com/7IrTXDj.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/wUiMMC4"
+         },
+         "last_updated":1624606143,
+         "title":"The Owl's Mansion",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/21bdoxJ"
+         },
+         "last_updated":1624606143,
+         "title":"Night Owl",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/urYSn26"
+         },
+         "last_updated":1624606143,
+         "title":"The Blink of an Owl",
+         "volume":"3"
+      }
+   }
+}
